@@ -48,7 +48,7 @@ class EmployeeAdmin(admin.ModelAdmin):
     list_display=('eid','name','salary','age','email')
 ```
 ## OUTPUT
-![alt text](<Screenshot 2025-04-21 204136.png>)
+![alt text](<Screenshot 2025-04-21 205021.png>)
 
 
 ## RESULT
